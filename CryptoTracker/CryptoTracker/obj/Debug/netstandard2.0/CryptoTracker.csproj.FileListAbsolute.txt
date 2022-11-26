@@ -1,0 +1,15 @@
+C:\Users\guilt\Documents\CryptoTracker\CryptoTracker\CryptoTracker\bin\Debug\netstandard2.0\CryptoTracker.deps.json
+C:\Users\guilt\Documents\CryptoTracker\CryptoTracker\CryptoTracker\bin\Debug\netstandard2.0\CryptoTracker.dll
+C:\Users\guilt\Documents\CryptoTracker\CryptoTracker\CryptoTracker\bin\Debug\netstandard2.0\CryptoTracker.pdb
+C:\Users\guilt\Documents\CryptoTracker\CryptoTracker\CryptoTracker\obj\Debug\netstandard2.0\CryptoTracker.csproj.AssemblyReference.cache
+C:\Users\guilt\Documents\CryptoTracker\CryptoTracker\CryptoTracker\obj\Debug\netstandard2.0\CryptoTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilt\Documents\CryptoTracker\CryptoTracker\CryptoTracker\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\guilt\Documents\CryptoTracker\CryptoTracker\CryptoTracker\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\guilt\Documents\CryptoTracker\CryptoTracker\CryptoTracker\obj\Debug\netstandard2.0\CryptoTracker.AssemblyInfoInputs.cache
+C:\Users\guilt\Documents\CryptoTracker\CryptoTracker\CryptoTracker\obj\Debug\netstandard2.0\CryptoTracker.AssemblyInfo.cs
+C:\Users\guilt\Documents\CryptoTracker\CryptoTracker\CryptoTracker\obj\Debug\netstandard2.0\CryptoTracker.csproj.CoreCompileInputs.cache
+C:\Users\guilt\Documents\CryptoTracker\CryptoTracker\CryptoTracker\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\guilt\Documents\CryptoTracker\CryptoTracker\CryptoTracker\obj\Debug\netstandard2.0\CryptoTracker.dll
+C:\Users\guilt\Documents\CryptoTracker\CryptoTracker\CryptoTracker\obj\Debug\netstandard2.0\refint\CryptoTracker.dll
+C:\Users\guilt\Documents\CryptoTracker\CryptoTracker\CryptoTracker\obj\Debug\netstandard2.0\CryptoTracker.pdb
+C:\Users\guilt\Documents\CryptoTracker\CryptoTracker\CryptoTracker\obj\Debug\netstandard2.0\ref\CryptoTracker.dll
